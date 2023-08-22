@@ -1,3 +1,4 @@
+![logo](https://github.com/adityajhansen/adityajhansen/blob/main/computer.png)
 <h1 align="center">Hi 👋, Nama Saya Aditya Jhansen Valhouten</h1>
 <h3 align="center">Pengembang frontend yang penuh semangat dari Indonesia</h3>
 
