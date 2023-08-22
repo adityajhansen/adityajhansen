@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, Nama Saya Aditya Jhansen Valhouten</h1>
 <h3 align="center">Pengembang frontend yang penuh semangat dari Indonesia</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityajhansen&label=Profile%20views&color=0e75b6&style=flat" alt="adityajhansen" /> </p>
 
