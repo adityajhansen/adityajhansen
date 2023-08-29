@@ -1,6 +1,6 @@
 ![logo](https://github.com/adityajhansen/adityajhansen/blob/main/computer.png)
 <h1 align="center">Hi 👋, Nama Saya Aditya Jhansen Valhouten</h1>
-<h3 align="center">Pengembang frontend yang penuh semangat dari Indonesia</h3>
+<h3 align="center">Pengembang frontend yang penuh semangat</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
